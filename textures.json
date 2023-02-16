@@ -1,0 +1,22 @@
+{
+  "player": {
+    "hull_left": "hull-left.png",
+    "hull_right": "hull-right.png",
+    "hull_top": "hull-top.png",
+    "hull_down": "hull-down.png",
+    "turret_left": "turret-left.png",
+    "turret_right": "turret-right.png",
+    "turret_top": "turret-top.png",
+    "turret_down": "turret-down.png"
+  },
+  "enemy": {
+    "hull-left": "hull-left.png",
+    "hull-right": "hull-right.png",
+    "hull-top": "hull-top.png",
+    "hull-down": "hull-down.png",
+    "turret-left": "turret-left.png",
+    "turret-right": "turret-right.png",
+    "turret-top": "turret-top.png",
+    "turret-down": "turret-down.png"
+  }
+}
